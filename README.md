@@ -90,4 +90,5 @@ Default user/pass is admin/admin
 
 ## Versions
 
++ **08.02.17:** Restructure dockerfile, less layers.
 + **12.12.16:** Inital Release
