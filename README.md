@@ -90,5 +90,6 @@ Default user/pass is admin/admin
 
 ## Versions
 
++ **12.05.17:** Add annotation timeout (primarily for armhf and lower powered hosts).
 + **08.02.17:** Restructure dockerfile, less layers.
 + **12.12.16:** Inital Release
