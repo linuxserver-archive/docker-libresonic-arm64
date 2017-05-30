@@ -1,4 +1,4 @@
-FROM lsiobase/alpine.arm64
+FROM lsiobase/alpine.arm64:3.5
 MAINTAINER sparklyballs
 # set version label
 ARG BUILD_DATE
