@@ -90,6 +90,7 @@ Default user/pass is admin/admin
 
 ## Versions
 
++ **26.01.18:** Rebase to alpine 3.7.
 + **09.07.17:** Rebase to alpine 3.6.
 + **12.05.17:** Add annotation timeout (primarily for armhf and lower powered hosts).
 + **08.02.17:** Restructure dockerfile, less layers.
