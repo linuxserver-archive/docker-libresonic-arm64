@@ -1,4 +1,4 @@
-FROM lsiobase/java:bionic
+FROM lsiobase/java.arm64:bionic
 
 # set version label
 ARG BUILD_DATE
